@@ -1,0 +1,1 @@
+Página WEB criada para um trabalho acadêmico na disciplina de Front-End com aplicações de HTML, CSS e JavaScript. Página não funcional, apenas para fins de aplicações de estrutura com HTML, estilos com CSS e permanência de dados com JavaScript.
